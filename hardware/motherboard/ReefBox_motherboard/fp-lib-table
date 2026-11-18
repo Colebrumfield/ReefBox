@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ReefBox_motherboard-footprints") (type "KiCad") (uri "${KIPRJMOD}/ReefBox_motherboard-footprints.pretty") (options "") (descr ""))
+)
